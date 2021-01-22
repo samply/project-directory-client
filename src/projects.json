@@ -1,0 +1,44 @@
+[
+	{
+		"name": "NeoLung",
+		"id": "DKTK000002016",
+		"title": "Prospective Randomized Multicenter Phase II Trial to Investigate Neoadjuvant Chemotherapy in Lung Cancer",
+		"type": "Klinische Studie (AMG)",
+		"data_category": ["Bildgebungsdaten",
+			"Genom-Daten",
+			"Transkriptom-Daten"]
+	},
+	{
+		"name": "Cov2Cancer-Register",
+		"id": "DKTK000000899",
+		"title": "Register für SARS-CoV-2 infizierte Krebspatienten",
+		"type": "Register-Studie",
+		"data_category": ["Bildgebungsdaten",
+			"Immunologische Daten",
+			"Infektions-Daten",
+			"Lebensqualität"]
+	},
+	{
+		"name": "TamoBreastCa",
+		"id": "DKTK000001087",
+		"title": "Multicenter Trial to Investigate Tamoxifen Treatment in Breast Cancer",
+		"type": "",
+		"data_category": []
+	},
+	{
+		"name": "Meth4CRC",
+		"id": "DKTK000004877",
+		"title": "",
+		"type": "Klinische Studie (AMG)",
+		"data_category": ["Genom-Daten",
+			"Epigenom-Daten"]
+	},
+	{
+		"name": "CRC-Advanced",
+		"id": "DKTK000005001",
+		"title": "",
+		"type": "Klinische Studie (AMG)",
+		"data_category": ["Bildgebungsdaten",
+			"Genom-Daten"]
+	}
+]
